@@ -1,0 +1,30 @@
+﻿body {
+}
+
+.navegacion {
+    font-size: 1.5rem;
+    text-align: center;
+}
+
+.header {
+    background-image: url(../img/header.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    height: 20rem;
+}
+
+.contenedor {
+    text-align: center;
+    display: grid;
+}
+
+.agenda {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0.5rem;
+    border-radius: 1rem;
+    margin-bottom: 2rem;
+}
+
